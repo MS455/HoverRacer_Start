@@ -1,2 +1,2 @@
-# MsINFINITY
- Infinity runner game with  score visual
+# RacecarINFINITY
+Car runner game with  score visual
